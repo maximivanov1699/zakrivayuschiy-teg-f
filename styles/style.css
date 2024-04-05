@@ -18,7 +18,7 @@
   min-inline-size: 320px;
   min-block-size: 100dvb;
   font-family: 'Inter', sans-serif;
-  font-variation-settings: var(--font_basic_paragraph);
+  font-variation-settings: "wght" var(--font_basic_paragraph);
   color: var(--accent_color);
   background-color: var(--background_color);
   background-image: var( --background_image);
@@ -153,7 +153,7 @@
 }
 
 .article-title {
-  font-variation-settings: var(--font_basic_title);
+  font-variation-settings: "wght" var(--font_basic_title);
   padding: 5px 9px;
   font-size: 1.125rem;
 }

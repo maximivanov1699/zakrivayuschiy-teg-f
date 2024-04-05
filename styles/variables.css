@@ -4,8 +4,8 @@
   --font_basic: 'Inter-Variable';
   --font_accent: 'PressStart2P';
   /* fonts-variation */
-  --font_basic_title: "wght" 700;
-  --font_basic_paragraph: "wght" 400;
+  --font_basic_title: 700;
+  --font_basic_paragraph: 400;
   --paragraph_customs: normal;
   /* color */
   --background_color: rgba(255, 255, 255, 1);

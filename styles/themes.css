@@ -12,8 +12,8 @@
   --heart_contour: rgba(0, 0, 0, 1);
   --heart_core: rgba(0, 0, 0, 1);
   --heart_main-body: rgba(0, 0, 0, 1);
-  --font_basic_title: "wght" 700;
-  --font_basic_paragraph: "wght" 400;
+  --font_basic_title: 700;
+  --font_basic_paragraph: 400;
   --paragraph_customs: normal;
   --background_color: rgba(255, 255, 255, 1);
   --background_image:
@@ -29,8 +29,8 @@
   --heart_contour: rgba(0, 204, 20, 1);
   --heart_core: rgba(0, 204, 20, 1);
   --heart_main-body: rgba(0, 204, 20, 1);
-  --font_basic_title: "wght" 785;
-  --font_basic_paragraph: "wght" 465;
+  --font_basic_title:  785;
+  --font_basic_paragraph: 465;
   --paragraph_customs: none;
   --background_color: rgba(0, 0, 0, 1);
   --background_image:
@@ -48,8 +48,8 @@
     --heart_contour: rgba(0, 204, 20, 1);
     --heart_core: rgba(0, 204, 20, 1);
     --heart_main-body: rgba(0, 204, 20, 1);
-    --font_basic_title: "wght" 785;
-    --font_basic_paragraph: "wght" 465;
+    --font_basic_title: 785;
+    --font_basic_paragraph: 465;
     --paragraph_customs: none;
     --background_image:
     repeating-linear-gradient(#000 0px 2px, transparent 2px 4px),
