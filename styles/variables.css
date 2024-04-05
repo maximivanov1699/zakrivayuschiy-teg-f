@@ -1,7 +1,7 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
   /* fonts family */
-  --font_basic: 'Inter';
+  --font_basic: 'Inter-Variable';
   --font_accent: 'PressStart2P';
   /* fonts-variation */
   --font_basic_title: "wght" 700;
