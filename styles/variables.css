@@ -1,1 +1,24 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  /* fonts family */
+  --font_basic: 'Inter';
+  --font_accent: 'PressStart2P';
+  /* fonts-variation */
+  --font_basic_title: "wght" 700;
+  --font_basic_paragraph: "wght" 400;
+  --paragraph_customs: normal;
+  /* color */
+  --background_color: rgba(255, 255, 255, 1);
+  --accent_color: rgba(0, 0, 0, 1);
+  --label_style: rgba(255, 255, 255, 1);
+  --blend_color: rgba(255, 255, 255, 1);
+  --heart_contour: rgba(0, 0, 0, 1);
+  --heart_core: rgba(0, 0, 0, 1);
+  --heart_main-body: rgba(0, 0, 0, 1);
+  --heart_sparks: rgba(255, 0, 0, 1);
+  /* backgroung-image */
+  --background_image:
+  repeating-linear-gradient(#d3d3d3 0px 2px, transparent 2px 4px),
+  repeating-linear-gradient(90deg, #d3d3d3 0px 2px, transparent 2px 4px),
+  linear-gradient(#e7e7e7 0.01%, #1a1a1a);
+}
