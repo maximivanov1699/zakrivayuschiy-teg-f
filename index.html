@@ -18,7 +18,7 @@
     <header class="header">
       <nav class="theme-menu header__theme-menu">
         <div class="header-title-container">
-          <h1 class="title">&lt/HTML&gt</h1>
+          <h1 class="title">&lt;/HTML&gt;</h1>
           <h2 class="header-title">Закрывающий тег</h2>
         </div>
         <!-- Не меняйте разметку этого списка, иначе скрипты перестанут работать -->
@@ -230,7 +230,7 @@
       <article class="card">
         <h3 class="article-title">3 спринт: Когда опускаются руки</h3>
         <div class="card-label">
-          <p class="lable">&ltLifes-style: none;&gt</p>
+          <p class="lable">&lt;Lifes-style: none;&gt;</p>
           <div class="border-img">
             <img class="card-img blur-img" src="/images/bus.png" alt="Фургон" aria-hidden="true">
           </div>
@@ -267,10 +267,12 @@
           <dialog class="modal-window" id="dialogid">
             <span class="dialog-container">
               <svg class="floppy-style" viewBox="0 0 21 21" width="39" height="39">
-                <use href="#floppy-1">
+                <use href="#floppy-1"></use>
               </svg>
-              <p>Вставьте<br>
-                дискету, чтобы продолжить</p>
+              <span>
+                <p>Вставьте<br>
+                  дискету, чтобы продолжить</p>
+              </span>
             </span>
             <button class="dialog-button" type="button" onclick="window.dialogid.close()">
               <span class="button__text">ок</span>
@@ -304,7 +306,7 @@
       <button class="footer_button" type="button" onclick="window.dialogid.showModal()">
         <span class="button__text">
           <svg class="floppy-style" viewBox="0 0 21 21" width="21" height="21">
-            <use href="#floppy-1">
+            <use href="#floppy-1"></use>
           </svg>
           Сохранить на память
         </span>
