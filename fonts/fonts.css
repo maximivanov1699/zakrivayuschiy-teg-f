@@ -1,7 +1,7 @@
 /* В этом файле вы импортируете все шрифты для сайта. Один из них вариативный и требует особенной настройки */
 @font-face {
   font-display: swap;
-  font-family: 'PressStart2P';
+  font-family: 'PressStart2P-Regular';
   font-style: normal;
   font-weight: normal;
   src:
